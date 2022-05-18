@@ -5,7 +5,16 @@ h1{
     color: red;
 }
 
-body{
-    height: 3000px;
+header{
+        height: 3000px;
+        background-color: black;
+}
+
+nav{
+    height: 100px;
+    background-color: gray;
+}
+footer{
+    height: 300px;
     background-color: black;
 }
