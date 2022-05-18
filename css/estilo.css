@@ -6,13 +6,17 @@ h1{
 }
 
 header{
-        height: 3000px;
+        height: 400px;
         background-color: black;
 }
 
 nav{
     height: 100px;
     background-color: gray;
+}
+main{
+    height: 1000px;
+    background-color: rgb(178, 191, 178);
 }
 footer{
     height: 300px;
